@@ -1,5 +1,7 @@
 # Go - Groupings (GG)
 
+[![CI](https://github.com/rschoonheim/gg/actions/workflows/ci.yml/badge.svg)](https://github.com/rschoonheim/gg/actions/workflows/ci.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/rschoonheim/gg.svg)](https://pkg.go.dev/github.com/rschoonheim/gg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Go groupings (GG) is a Go package that provides a high-performance data structure for managing and organizing groupings
@@ -92,7 +94,7 @@ package main
 import (
     "fmt"
 
-    "gg"
+    "github.com/rschoonheim/gg"
 )
 
 func main() {

@@ -292,4 +292,3 @@ func (g *Grouping) Disjoint(other *Grouping) bool {
 	}
 	return true
 }
-

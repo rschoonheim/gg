@@ -89,4 +89,3 @@ func main() {
 	fmt.Println("\n== terms indexing document 5 ==")
 	fmt.Println(idx.FindNames(5))
 }
-

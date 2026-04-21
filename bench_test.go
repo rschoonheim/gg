@@ -243,4 +243,3 @@ func BenchmarkDecode(b *testing.B) {
 		})
 	}
 }
-

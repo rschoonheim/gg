@@ -119,4 +119,3 @@ func pick(r *rand.Rand, universe uint32, ratio float64) []uint32 {
 	}
 	return out
 }
-

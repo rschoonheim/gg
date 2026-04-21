@@ -32,9 +32,9 @@ func main() {
 	gs := gg.New(population)
 
 	// Populate roles.
-	mustAdd(gs, "admin", 0)                   // alice
-	mustAdd(gs, "editor", 0, 2, 4)            // alice, carol, eve
-	mustAdd(gs, "reviewer", 2, 3, 4, 6)       // carol, dan, eve, grace
+	mustAdd(gs, "admin", 0)             // alice
+	mustAdd(gs, "editor", 0, 2, 4)      // alice, carol, eve
+	mustAdd(gs, "reviewer", 2, 3, 4, 6) // carol, dan, eve, grace
 	mustAdd(gs, "viewer", 1, 2, 3, 4, 5, 6, 7)
 
 	editor, _ := gs.Get("editor")
@@ -81,4 +81,3 @@ func named(ids []uint32) []string {
 	}
 	return out
 }
-
