@@ -7,6 +7,12 @@ of entities. It operates at the binary level using bitwise operations, making me
 grouping queries extremely fast. The package allows you to create, manipulate, and query groupings of entities with
 minimal overhead, regardless of the scale of your data.
 
+## Using GG
+To use the `gg` package in your Go project, you can install it using the following command:
+```bash
+go get github.com/rschoonheim/gg
+```
+
 ## Entities
 
 ### Groupings
