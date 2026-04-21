@@ -84,7 +84,6 @@ jobs:
             go build -o /dev/null "./$ex"
             echo "::endgroup::"
           done
-
   test:
     name: Test (${{ matrix.os }} / Go ${{ matrix.go }})
     runs-on: ${{ matrix.os }}
