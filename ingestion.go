@@ -1,3 +1,6 @@
+// Copyright (c) 2026 rschoonheim
+// SPDX-License-Identifier: MIT
+
 // Package gg provides a high-performance data structure for managing and
 // organising groupings of entities. Groupings are stored as packed bitmaps
 // over a fixed universe of entity indices, which makes membership tests and

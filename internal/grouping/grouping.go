@@ -1,3 +1,6 @@
+// Copyright (c) 2026 rschoonheim
+// SPDX-License-Identifier: MIT
+
 // Package grouping holds the Grouping value type: a named, bitmap-backed
 // subset of a fixed entity universe. It is internal because it is re-exported
 // from the top-level gg package via a type alias.

@@ -1,5 +1,7 @@
 # Go - Groupings (GG)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Go groupings (GG) is a Go package that provides a high-performance data structure for managing and organizing groupings
 of entities. It operates at the binary level using bitwise operations, making membership tests, set operations, and
 grouping queries extremely fast. The package allows you to create, manipulate, and query groupings of entities with
@@ -282,3 +284,14 @@ go run ./.examples/feature_flags
 The directory is prefixed with `.` so Go's `./...` wildcard skips it and
 examples never interfere with `go build` / `go test`.
 
+## License
+
+This project is released under the [MIT License](LICENSE).
+
+```
+Copyright (c) 2026 rschoonheim
+```
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the software. See the [LICENSE](LICENSE) file for the
+full text.

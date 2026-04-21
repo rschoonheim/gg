@@ -1,3 +1,6 @@
+// Copyright (c) 2026 rschoonheim
+// SPDX-License-Identifier: MIT
+
 // Feature-flag / experiment cohort example.
 //
 // A product typically maintains several overlapping cohorts of users:

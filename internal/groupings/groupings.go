@@ -1,3 +1,6 @@
+// Copyright (c) 2026 rschoonheim
+// SPDX-License-Identifier: MIT
+
 package groupings
 
 import "github.com/rschoonheim/gg/internal/binary"

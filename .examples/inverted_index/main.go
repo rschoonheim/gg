@@ -1,3 +1,6 @@
+// Copyright (c) 2026 rschoonheim
+// SPDX-License-Identifier: MIT
+
 // Inverted-index example.
 //
 // Each document is represented by an integer id. For every indexed term,

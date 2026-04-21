@@ -1,3 +1,6 @@
+// Copyright (c) 2026 rschoonheim
+// SPDX-License-Identifier: MIT
+
 // Access-control example.
 //
 // Each user is represented by an integer id in [0, N). A Grouping models
