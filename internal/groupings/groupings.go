@@ -1,6 +1,6 @@
 package groupings
 
-import "gg/internal/binary"
+import "github.com/rschoonheim/gg/internal/binary"
 
 // Groupings is the internal binary-backed representation of a family of
 // groupings. It owns the Headers (meta-data) and Data (concatenated bitmaps)

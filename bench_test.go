@@ -4,7 +4,7 @@ import (
 	"math/rand/v2"
 	"testing"
 
-	"gg"
+	"github.com/rschoonheim/gg"
 )
 
 // buildGroupings creates a Groupings container of the given universe size

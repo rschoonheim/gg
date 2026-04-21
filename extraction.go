@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"gg/internal/binary"
-	"gg/internal/grouping"
+	"github.com/rschoonheim/gg/internal/binary"
+	"github.com/rschoonheim/gg/internal/grouping"
 )
 
 // Names returns the names of every grouping in insertion order.

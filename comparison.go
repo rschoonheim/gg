@@ -1,6 +1,6 @@
 package gg
 
-import "gg/internal/grouping"
+import "github.com/rschoonheim/gg/internal/grouping"
 
 // ErrUniverseMismatch is returned when attempting to compare or combine
 // two groupings defined over universes of different sizes. It is

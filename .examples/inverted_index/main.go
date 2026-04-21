@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"strings"
 
-	"gg"
+	"github.com/rschoonheim/gg"
 )
 
 var corpus = []string{

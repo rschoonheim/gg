@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"os"
 
-	"gg/internal/binary"
-	"gg/internal/grouping"
-	"gg/internal/groupings"
+	"github.com/rschoonheim/gg/internal/binary"
+	"github.com/rschoonheim/gg/internal/grouping"
+	"github.com/rschoonheim/gg/internal/groupings"
 )
 
 // MagicNumber is written at the start of every encoded Groupings payload.

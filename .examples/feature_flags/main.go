@@ -23,7 +23,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"gg"
+	"github.com/rschoonheim/gg"
 )
 
 const userCount = 10_000

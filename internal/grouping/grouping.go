@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"math/bits"
 
-	gbinary "gg/internal/binary"
+	gbinary "github.com/rschoonheim/gg/internal/binary"
 )
 
 // ErrUniverseMismatch is returned when attempting to compare or combine

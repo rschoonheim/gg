@@ -14,7 +14,7 @@ package main
 import (
 	"fmt"
 
-	"gg"
+	"github.com/rschoonheim/gg"
 )
 
 // userNames maps user ids to human-readable names. In a real system this
